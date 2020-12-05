@@ -2,7 +2,7 @@ name: monad
 description:
   practical monad implementation in dart-language.
 version:
-  0.6.0
+  0.6.0-nullsafety.0
 
 repository:
   https://github.com/LouiS0616/DartyMonad
