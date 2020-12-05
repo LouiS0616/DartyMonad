@@ -1,4 +1,4 @@
-# Version 0.6.0-nullsafety.0
+# Version 0.6.0-nullsafety.1
 Migrated to null-safety.
 
 # Version 0.5.0
