@@ -34,7 +34,7 @@ main() {
   group('short circuit', () => shortCircuitTest(seed: null));
 }
 
-shortCircuitTest({int seed, int length = 10}) {
+shortCircuitTest({int? seed, int length = 10}) {
   var rand = Random(seed);
 
   var count = 0;
